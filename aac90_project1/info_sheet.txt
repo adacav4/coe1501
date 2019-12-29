@@ -1,0 +1,55 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Adarsh Cavale
+
+Lecture section:  T TH 11AM - 12:15PM
+
+Recitation day and time:  F 12PM - 12:50PM
+
+Assignment #:  1
+
+Program due date:  02/05/2018
+
+Handed in date:  02/05/2018
+
+Source code file name(s):
+ac_test.java
+Node.java
+DLB.java
+TrieMethods.java
+
+
+
+Other file name(s) (if relevant):
+
+
+
+
+
+
+
+Does your program run without error?:	Yes
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+
+
+
+
+
+
+Additional comments to the grader:
+
+
+
+
+
+
+
